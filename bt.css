@@ -1,0 +1,19 @@
+header{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.btn {
+  background: #050F3D;
+  width: 120px;
+  padding: 5px 0;
+  border-radius: 2px;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+
